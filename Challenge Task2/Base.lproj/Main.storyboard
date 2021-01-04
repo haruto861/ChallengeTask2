@@ -65,8 +65,8 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="Label" destination="ExH-U3-mbh" id="GRx-H9-Ig5"/>
-                        <outlet property="SegmentedControl" destination="AHd-vi-XGx" id="EdU-JT-ZDm"/>
+                        <outlet property="label" destination="ExH-U3-mbh" id="3nx-be-H77"/>
+                        <outlet property="segmentedControl" destination="AHd-vi-XGx" id="Kd2-rd-Sk6"/>
                         <outlet property="textField1" destination="J6X-3i-iUf" id="s09-nr-34g"/>
                         <outlet property="textField2" destination="RmR-ER-Z31" id="GxM-go-kNf"/>
                     </connections>
